@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/admin/Library/Developer/Xcode/DerivedData/DownloadManager-cjzyowznpgqlnpefwapeqawkswez/Build/Products/Debug-iphonesimulator/DownloadManager.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/admin/Desktop/DownloadManager/build/DownloadManager.build/Debug-iphonesimulator/DownloadManager.build/unextended-module.modulemap",
+    }]
+  }]
+}

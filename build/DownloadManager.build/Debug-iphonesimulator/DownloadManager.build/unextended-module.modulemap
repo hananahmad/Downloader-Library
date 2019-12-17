@@ -1,0 +1,10 @@
+framework module DownloadManager {
+  umbrella header "DownloadManager.h"
+
+  export *
+  module * { export * }
+}
+
+module DownloadManager.__Swift {
+    exclude header "DownloadManager-Swift.h"
+}

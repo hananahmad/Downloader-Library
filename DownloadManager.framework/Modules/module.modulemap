@@ -1,0 +1,11 @@
+framework module DownloadManager {
+  umbrella header "DownloadManager.h"
+
+  export *
+  module * { export * }
+}
+
+module DownloadManager.Swift {
+    header "DownloadManager-Swift.h"
+    requires objc
+}

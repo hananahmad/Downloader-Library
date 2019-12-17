@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "61c8e42c5ccdf513f3b4c8b670319f70"
+build_time: [1576580961, 249015000]
+inputs:
+  "/Users/admin/Desktop/DownloadManager/DownloadManager/FileCache.swift": [1576575196, 930610283]
+  "/Users/admin/Desktop/DownloadManager/DownloadManager/Cache.swift": [1576568779, 430408054]
+  "/Users/admin/Desktop/DownloadManager/DownloadManager/CacheUIImage.swift": [1576575225, 742342447]
+  "/Users/admin/Desktop/DownloadManager/DownloadManager/Downloder.swift": [1576578571, 195155245]
